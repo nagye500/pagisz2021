@@ -1,0 +1,83 @@
+ @media only screen and (max-width:  1150px){
+
+.top-logo-text{
+      width: 100%;
+      justify-content: center;
+      
+      
+      
+      
+}
+.main-box{
+    font-size: 18px;
+     
+}
+
+.logo{
+    width: 100%;
+    margin-top: 0vh;font-size: 20px;
+
+}
+
+.top-text{
+    width: 100%; font-size: 20px;
+
+     
+}
+.logo-text li{
+    font-size: 18px;
+}
+ }
+ @media only screen and (max-width:  1150px){
+
+
+ body{
+     overflow-x: hidden;
+ }
+
+.table, .school-presentation{
+    overflow-x: auto;
+    width: 50%;
+}
+
+
+
+ }
+ @media only screen and (max-width:  1220px){
+    .block-news{
+        width: 100%;
+        display: grid;
+        grid-template-columns: max-content  ;
+        justify-content: center;
+        
+  
+    }
+    .block-news div{
+        border: solid;
+        width: 500px;
+        height: auto;
+    }
+ }
+ @media only screen and (max-width:  650px){
+    .block-news div{
+        border: solid;
+        width: 400px;
+        height: auto;
+    }
+    .top-logo-text ul{
+        font-size: 15px;
+    }
+    .picture-links{
+        grid-template-columns: max-content max-content;
+    }
+ }
+ @media only screen and (max-width:  450px){
+    .block-news div{
+        border: solid;
+        width: 320px;
+        height: auto;
+    }
+ }
+
+
+
